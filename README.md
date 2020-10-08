@@ -1,1 +1,1 @@
-# ignacio
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Ignaciox=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
